@@ -1,7 +1,13 @@
 # Gerenciamento de projetos
 Backend de um gerenciamento de projeto utilizando flask e firebase (incompleto)
+# Instalar pacotes necessários
+Tenha python em sua máquina, e execute os seguintes comandos
+pip install Flask
+pip install flask_cors CORS
+pip install pyrebase
+pip install requests
 
-#como testar
+# como testar
 
 executar o arquivo python, e abrir o http:localhost:5000
 vai dar uma mensagem escrita backend test
